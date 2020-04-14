@@ -1,0 +1,3 @@
+FirstDataEntry:ImportantData;
+SecondDataEntry:Data with spaces;
+ANewCategory:Numbers 123;
