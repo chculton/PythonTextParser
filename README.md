@@ -1,5 +1,5 @@
 <div align="center">
-Python Text Parser
+  <h1>Python Text Parser</h1>
 </div>
 
 # PythonTextParser
